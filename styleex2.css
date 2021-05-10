@@ -1,0 +1,110 @@
+.figure{
+  position:absolute;
+  left:300px;
+
+}
+.en-tete{
+  width: 830px;
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: rgba(153, 162, 237);
+}
+.section0{
+  display: block;
+  width: 830px;
+  height:70px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 10px;
+  background-color: #EDBB99 ;
+}
+.section1{
+  display: inline-block;
+  width: 200px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+  background-color: #AED6F1;
+}
+
+.section2{
+  display: inline-block;
+  width: 200px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+  background-color: #F5B7B1;
+}
+.section3{
+  display: inline-block;
+  width: 200px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+  background-color: #DAF7A6;
+}
+.section4{
+  display: inline-block;
+  width: 200px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+  background-color: #F8C471;
+}
+.section5{
+  display:block;
+  width: 410px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top: 30px;
+  background-color: #5DADE2;
+}
+.section6{
+  width: 410px;
+  height:180px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top:-156px;
+  left: 420px;
+  background-color: #5DADE2;
+}
+.Pied{
+  width: 830px;
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  top:-144px;
+  background-color: #BB8FCE ;
+}
+@media screen and (max-width : 900px){
+  img {display: none;}
+  .responsive{
+    display: flex;
+    justify-content: center;
+  }
+  .figure{ width:460px;
+  height:531px;}
+}

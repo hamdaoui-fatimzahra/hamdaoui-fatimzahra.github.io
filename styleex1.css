@@ -1,0 +1,212 @@
+h1{
+  font-family: helvetica;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  font-variant: small-caps ;
+}
+hr{
+  border-top: 3px dotted gray;
+  width:"50%";
+}
+.classy{
+  display:inline-block;
+  margin-left: 170px;
+}
+.div1{
+  width: 80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+}
+.div2{
+  width: 80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: relative;
+  left: 82px;
+}
+.div3{
+  width: 80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: relative;
+  left: 164px;
+}
+.carre1{
+  width: 80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+}
+.carre2{
+  width: 80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: relative;
+  top: 2px;
+}
+.carre3{
+  width: 80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: relative;
+  top: 4px;
+}
+.figure1{
+  width:168px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+}
+.figure2{
+  width:80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: relative;
+  top: 2px;
+}
+.figure3{
+  width:80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: relative;
+  left: 88px;
+  top:-83px;
+}
+.chakl1{
+  width:80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+}
+.chakl2{
+  width:80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: relative;
+  top: -82px;
+
+}
+.chakl3{
+  width:80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: relative;
+  top: -85px;
+  left: 86px;
+}
+
+
+
+.div1-2{
+  width: 80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+  position: absolute;
+  top: 750px;
+}
+.div2-2{
+  width: 80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: absolute;
+  top: 833px;
+  left: 262px;
+}
+.div3-2{
+  width: 80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: absolute;
+  top: 916px;
+  left: 345px;
+}
+.carre1-2{
+  width: 80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+  position: absolute;
+  top:750px;
+}
+.carre2-2{
+  width: 80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: absolute;
+  top:836px;
+}
+.carre3-2{
+  width: 80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: absolute;
+  top:923px;
+}
+.figure1-2{
+  width:168px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+  position: absolute;
+  top: 750px
+}
+.figure2-2{
+  width:80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: absolute;
+  top: 836px;
+  left: 814px ;
+}
+.figure3-2{
+  width:80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: absolute;
+  left: 900px;
+  top: 836px;
+}
+.chakl1-2{
+  width:80px;
+  height: 80px;
+  background-color: #F08080;
+  border: solid blue ;
+  position: absolute;
+  top: 750px;
+}
+.chakl2-2{
+  width:80px;
+  height: 80px;
+  background-color: #BBAE98;
+  border: solid blue ;
+  position: absolute;
+  top: 837px;
+  left: 1131px;
+
+}
+.chakl3-2{
+  width:80px;
+  height: 80px;
+  background-color: #2C75FF;
+  border: solid blue ;
+  position: absolute;
+  top: 750px;
+  left: 1218px;
+}

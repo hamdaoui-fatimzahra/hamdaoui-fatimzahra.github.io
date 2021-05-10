@@ -1,0 +1,73 @@
+
+.en-tete{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: rgba(153, 162, 237);
+}
+.section0{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #EDBB99 ;
+  margin-top: 10px;
+}
+.section1{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #AED6F1;
+  margin-top: 10px;
+}
+
+.section2{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #F5B7B1;
+  margin-top: 10px;
+}
+.section3{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #DAF7A6;
+  margin-top: 10px;
+}
+.section4{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #F8C471;
+  margin-top: 10px;
+}
+.section5{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #5DADE2;
+  margin-top: 10px;
+}
+.section6{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #5DADE2;
+  margin-top: 10px;
+}
+.Pied{
+  height:130px;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 20px;
+  background-color: #BB8FCE ;
+  margin-top: 10px;
+}
